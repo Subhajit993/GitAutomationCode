@@ -14,5 +14,9 @@ public class RestApiTest {
 	public void test3() {
 		System.out.println("User Deo 3 add a Test Cases");
 	}
+	
+	public void test4() {
+		System.out.println("User Deo 4 add a Test Cases");
+	}
 }
 
